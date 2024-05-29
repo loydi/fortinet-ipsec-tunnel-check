@@ -43,4 +43,15 @@ This repository contains scripts and tools for monitoring the status of IPSec VP
     ```
 
     Replace `<Fortigate_IP>` with the IP address of your Fortinet device and `<community_string>` with your SNMP community string.
+## Contributing
+Contributions are welcome! If you'd like to contribute, please fork this repository, make your changes, and submit a pull request.
 
+**Requesting New Features**
+
+If you have an idea for a new feature or improvement, please open an issue to discuss it. We encourage the community to suggest enhancements and new functionalities.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+```css
+This update includes a section in the Contributing part where users are encouraged to request new features, enhancing community involvement and continuous improvement of the project.
+```
